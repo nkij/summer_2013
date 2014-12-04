@@ -1,5 +1,5 @@
 AAO summer_2013 (May 15 - August 8)
 ===========
 
-Python scripts written for Stephan's Quintet project
+This repository contains Python scripts written for Stephan's Quintet project
 
