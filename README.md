@@ -1,4 +1,4 @@
 summer_2013
 ===========
 
-Python programs written for Stephan's Quintet project
+Python scripts written for Stephan's Quintet project
